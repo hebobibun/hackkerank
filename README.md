@@ -23,7 +23,7 @@ cd hackkerank
 Run the project 
 
 ```
-go run ./problemname/.
+go run ./problem-name/.
 ```
 
 # Enjoy
