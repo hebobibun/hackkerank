@@ -1,2 +1,3 @@
 # hackkerank
-my problem solving journey
+
+It's my problem solving journey, mostly written in Go.
