@@ -1,6 +1,6 @@
 # hackkerank
 
-It's my problem solving journey, mostly written in Go.
+My problem solving journey with Hackerrank, mostly written in Go.
 
 # Requirement
 
